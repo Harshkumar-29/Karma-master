@@ -8,15 +8,24 @@ It provides a complete UI for an online shopping platform including product list
 
 🚀 Features
 
-
 🏠 Responsive homepage with banner slider
+
 🛍️ Product listing and categories
+
 🔍 Search functionality UI
+
 🛒 Shopping cart interface
+
 ❤️ Wishlist and compare options
+
 ⏳ Countdown timer for deals
+
 📱 Fully responsive (mobile-friendly)
+
 🎨 Modern UI with animations and sliders
+
+
+
 
 
 🛠️ Tech Stack
