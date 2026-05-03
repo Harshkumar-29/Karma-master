@@ -78,6 +78,19 @@ Karma-Shop/
  
  icons
 
+ 
+ Project Screenshots
+
+ Homepage
+![Homepage](Screenshot%202024-12-02%20221531.png)
+
+ Cart Page  
+![Cart](Screenshot%202024-12-04%20172751.png)
+
+ Checkout Page
+![Checkout](Screenshot%202024-12-06%20224823.png)
+
+
 
 ⚙️ Installation & Setup
 
