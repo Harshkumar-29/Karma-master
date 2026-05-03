@@ -111,6 +111,8 @@ Admin dashboard
 Template inspired by Colorlib
 Icons from Font Awesome & Themify Icons
 Carousel from Owl Carousel
+
+
 📄 License
 
 This project is for educational purposes.
